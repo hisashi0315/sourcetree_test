@@ -17,7 +17,3 @@ topic-D
 topic-E
 
 疲れた
-
-
-
-pr-B
